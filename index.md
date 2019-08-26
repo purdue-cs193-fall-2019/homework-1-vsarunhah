@@ -12,6 +12,6 @@ Github is pretty lit tho. Clean and stuff but there's a pretty thic learning cur
 - The teachers aren't old
 - Sounds like a cool class
 - Homework seems pretty easy
-- Skills that we learn, like GitHub are actually pretty useful
+- Skills that we learn, like using GitHub, are actually pretty useful
 
 ```
