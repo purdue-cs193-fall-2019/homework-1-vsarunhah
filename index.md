@@ -9,15 +9,11 @@ Github is pretty lit tho. Clean and stuff but there's a pretty thic learning cur
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
 
 - The teachers aren't old
 - Sounds like a cool class
 - Homework seems pretty easy
 - Skills that we learn, like GitHub are actually pretty useful
-
-1. Numbered
-2. List
 
 **Bold** and _Italic_ and `Code` text
 
